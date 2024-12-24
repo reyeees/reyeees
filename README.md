@@ -1,8 +1,17 @@
-## Hi there 👋
+
+<a href="https://github.com/reyeees">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=reyeees&hide=contribs&show=reviews&show_icons=true&theme=tokyonight&border_radius=2.0&locale=ja&bg_color=40,1a1b27,432a57&rank_icon=default&number_format=short&custom_title=Reyeees&text_bold=true" />
+</a>
+<a href="https://github.com/reyeees">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyeees&theme=tokyonight&border_radius=2.0&locale=ja&bg_color=40,432a57,1a1b27&layout=donut" />
+</a>
+
+[![MasterHead](https://youtube.com)](https://github.com/reyeees)
 
 <!--
 **reyeees/reyeees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reyeees&repo=reyeees)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reyeees)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
