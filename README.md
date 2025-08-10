@@ -1,5 +1,5 @@
 <a href="https://github.com/reyeees">
-  <img align="middle" src="https://github.com/reyeees/reyeees/blob/e035dd3093a2af600e18188d23ecf25560666fb3/assets/banner.png?raw=true" width="760" style="width: 760;">
+  <img align="middle" src="https://github.com/reyeees/reyeees/blob/e035dd3093a2af600e18188d23ecf25560666fb3/assets/banner.png?raw=true" width="760" style="border-radius: 5px;">
 </a>
 
 <a href="https://github.com/reyeees">
