@@ -1,12 +1,12 @@
 <a href="https://github.com/reyeees">
-  <img align="center" height=290 src="https://github.com/reyeees/reyeees/blob/e035dd3093a2af600e18188d23ecf25560666fb3/assets/banner.png?raw=true" />
+  <img align="middle" src="https://github.com/reyeees/reyeees/blob/e035dd3093a2af600e18188d23ecf25560666fb3/assets/banner.png?raw=true" width="800" style="width: 760;">
 </a>
 
 <a href="https://github.com/reyeees">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=reyeees&hide=contribs&show=reviews&show_icons=true&theme=tokyonight&border_radius=2.0&locale=ja&bg_color=40,1a1b27,432a57&rank_icon=default&number_format=short&custom_title=Reyeees&text_bold=true" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=reyeees&amp;hide=contribs&amp;show=reviews&amp;show_icons=true&amp;theme=synthwave&amp;locale=ja&amp;rank_icon=default&amp;number_format=short&amp;custom_title=Reyeees&amp;text_bold=false" width="450" height="">
 </a>
 <a href="https://github.com/reyeees">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyeees&theme=tokyonight&border_radius=2.0&locale=ja&bg_color=40,432a57,1a1b27&layout=donut" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyeees&amp;theme=synthwave&amp;locale=ja&amp;&amp;layout=donut" width="305.89">
 </a>
 
 <!--
